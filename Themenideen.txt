@@ -1,4 +1,4 @@
-- Einen Gruppenchat über JMS
+﻿- Einen Gruppenchat über JMS3
 - Maven
 - Hibernate
 - Drucker installierens
