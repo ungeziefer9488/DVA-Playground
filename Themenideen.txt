@@ -1,3 +1,4 @@
+- Gummibären hüpfen hier und da und überall
 - Einen Gruppenchat über JMS
 - Maven
 - Hibernate
